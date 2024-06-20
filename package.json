@@ -1,0 +1,24 @@
+{
+  "name": "autounpack",
+  "version": "1.0.0",
+  "description": "auto unpack downloaded media files from torrents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "chokidar": "^3.6.0",
+    "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevJakey/autounpack.git"
+  },
+  "author": "jake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevJakey/autounpack/issues"
+  },
+  "homepage": "https://github.com/DevJakey/autounpack#readme"
+}
